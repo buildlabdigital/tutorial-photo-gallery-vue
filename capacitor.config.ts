@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.demo.pg.vue',
+  appId: 'co.buildlab.tutorial_photo_gallery_vue',
   appName: 'Vue Photo Gallery',
   bundledWebRuntime: false,
   webDir: 'dist',
